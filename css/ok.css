@@ -61,9 +61,9 @@ color:#e0007d;
 }
 
 .cesar{
-	color:#70006b;
-	font:bold 25px X2,verdana,sans-serif;
-	margin-right:-10px;
+		color:#70006b;
+	font:bold 22px X2,verdana,sans-serif;
+	margin-right:120px;
 	margin-top:10px;
 }
 
@@ -104,8 +104,6 @@ color:#e0007d;
 }
 
 #B1{
-  width:200px;
-  margin-left:50px;
   border-radius:20px;
 	
 }
